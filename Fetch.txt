@@ -1,1 +1,7 @@
+https://github.com/MiCode/kernel_devicetree.git
+https://github.com/MiCode/vendor_qcom_opensource_wlan.git
+https://github.com/MiCode/vendor_qcom_opensource_audio-kernel.git
+https://github.com/MiCode/vendor_qcom_opensource_data-kernel.git
+
+
 
